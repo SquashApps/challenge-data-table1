@@ -1,7 +1,7 @@
 # Data Table Challenge
 
 This challenge is create a component that displays analytics data in a pivot table using [react-pivot](https://github.com/davidguttman/react-pivot). This is what a basic, unstyled version looks like:
-![screenshot from 2018-11-12 13-16-03](https://user-images.githubusercontent.com/35330195/48333672-4c968200-e67e-11e8-8be3-b4d05f7459be.png)
+![screenshot from 2018-11-12 13-29-24](https://user-images.githubusercontent.com/35330195/48333932-19082780-e67f-11e8-9358-412af5672cf6.png)
 
 
 
